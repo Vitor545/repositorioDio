@@ -1,0 +1,6 @@
+git commit - adiciona commit ou seja salva as alterações.
+git add - adiciona commit a área de state.
+git push - envia as informações para o remoto.
+git pull - traz as informações do remoto para o local.
+git remote - mostra as área remotas daquela pasta.
+git init - inicia um repositório na pasta atual.
