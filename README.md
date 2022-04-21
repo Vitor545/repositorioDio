@@ -12,7 +12,7 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
  
-<h3 align='center'> 🧙‍♂️ Vamos embarcar nessa jornada </h3>
+<h3 align='center'> 🧙‍♂️ Vamos embarcar nessa jornada? </h3>
 
 ![image](https://user-images.githubusercontent.com/39885926/164451473-aea79ed4-c68f-4791-8161-915112155467.png)
 
