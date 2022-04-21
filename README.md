@@ -15,7 +15,7 @@
  
 <h3 align='center'> 🧙‍♂️ Vamos embarcar jornada </h3>
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dio.me%2Fhire-devs&psig=AOvVaw3F0MR6UrmEOOp0Cplv0ezb&ust=1650627962775000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKDm_LyKpfcCFQAAAAAdAAAAABAD"></img>
+![image](https://user-images.githubusercontent.com/39885926/164451473-aea79ed4-c68f-4791-8161-915112155467.png)
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
