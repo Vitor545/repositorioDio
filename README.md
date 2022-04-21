@@ -1,4 +1,3 @@
-<p>Aqui vamos desenvolver vários projetos, além de servir como área de anotações para estudos futuros.</p>
 ## Repositório da Digital Innovation One
  
 <h3 align='center'> Bem vindo ao meu repositório da Digital Innovation One </h3>
